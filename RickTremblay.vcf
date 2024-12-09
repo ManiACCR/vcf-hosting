@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Tremblay;Rick
+FN:Rick  Tremblay
+ORG:;Production Department
+X-MICROSOFT-OFFICELOC:Boston
+TITLE:Project Manager
+TEL;TYPE=CELL,VOICE:774-306-1378
+EMAIL;TYPE=INTERNET:rickt@ccrsolutions.com
+UID:
+END:VCARD
