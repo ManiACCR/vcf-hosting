@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Smith;Ronald
+FN:
+ORG:CCR Solutions
+TITLE:Senior Project Manager
+TEL;TYPE=CELL,VOICE:954-707-8142 
+EMAIL;TYPE=WORK,INTERNET:rsmith@ccrsolutions.com
+ADR;TYPE=WORK:;;;Atlanta
+UID:
+END:VCARD
