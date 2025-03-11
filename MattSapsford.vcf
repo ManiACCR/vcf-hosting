@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Sapsford;Matt
+FN:Matt Sapsford
+ORG:CCR Solutions
+TITLE:Global Inventory Manager
+TEL;TYPE=WORK,VOICE:14166752480,264
+TEL;TYPE=CELL,VOICE:416-891-2477
+EMAIL;TYPE=WORK,INTERNET:matts@ccrsolutions.com
+ADR;TYPE=WORK:;;100A Belfield Road;Toronto;ON;M9W 1G1;Canada
+UID:
+END:VCARD
